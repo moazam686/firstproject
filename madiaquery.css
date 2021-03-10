@@ -1,0 +1,354 @@
+
+  @media screen and (max-width:768px){
+    .left{
+      background-color: red;
+      height: 100vh;
+      
+    }
+    .dropicon{
+      position: absolute;
+      left: 85%;
+    }
+    .img{
+      height: auto;
+      width: 15vw;
+      top: 7%;
+    }
+    .b> .fab{
+      font-size: 14px;
+      margin-left: 8px;
+    }
+    .lefth1{
+      font-size: 11px;
+    }
+    .pic1{
+      height: 33vh;
+      width: 100%;
+    }
+    .size1{
+      height: auto;
+      width: 15vw;
+ 
+  }
+  .center{
+    height: 6vh;
+    width: 60vw;
+  }
+  .main4{
+    height: 90vh;
+    width: 100%;
+  }
+  .main5{
+    height: 80vh;
+    width: 85%;
+  } 
+  .box1{
+    height: 18vh;
+    width: 15vw;
+    
+
+}
+.h3{
+  font-size: 13px;
+}
+.p1{
+  font-size: 10px;
+}
+.slide{
+  height: 35vh;
+  width: 100%;
+}
+.side1{
+  height: 30vh;
+  width: 45%;
+}
+.side2{
+  height: 30vh;
+  width: 45%;
+}
+.para1{
+  font-size: 14px;
+  line-height: 20px;
+}
+
+.para2{
+  font-size: 14px;
+  line-height: 20px;
+}
+.ul1{
+  /* margin-top: -100%; */
+  top: -5%;
+}
+.ico{
+  height: 7vh;
+  width: 100%;
+  margin-top: 5%;
+}
+.main{
+  height: auto;
+  width: 100%;
+  /* background-color: black; */
+  /* border: 1px solid #000; */
+}
+.right{
+  height: auto;
+  width: 80%;
+}
+.main10{
+  height: 90vh;
+  width: 100%;
+}
+.paragraphe{
+  height: 8vh;
+  width: 70vw;
+}
+.paragraphe p{
+  
+  font-size: 14px;
+}
+.drop{
+  height: 75vh;
+}
+.drop1{
+  height: 75vh;
+}
+.drop2{
+  height: 75vh;
+}
+.navimg{
+  height: 28vh;
+  width: 18vw;
+  position: absolute;
+  top: 1%;
+  left: 2%;
+  
+}
+.heading3{
+  position: absolute;
+  top: 45%;
+  font-size: 20px;
+  color: gray;
+  left: 3%;
+  top: 40%;
+}
+.navimg1{
+  height: 28vh;
+  width: 18vw;
+  position: absolute;
+  left: 2%;
+  top: 45%;
+}
+.heading4{
+  position: absolute;
+  top: 84%;
+  font-size: 20px;
+  color: gray;
+  left: 3%;
+}
+.navimg2{
+  height: 28vh;
+  width: 18vw;
+  position: absolute;
+  left: 2%;
+  top: 90%;
+}
+.heading5{
+  position: absolute;
+  top: 130%;
+  font-size: 20px;
+  color: gray;
+  left: 3%;
+}
+
+.navimg3{
+  height: 28vh;
+  width: 18vw;
+  position: absolute;
+  left: 2%;
+  top: 2%;
+}
+.navimg4{
+  height: 28vh;
+  width: 18vw;
+  position: absolute;
+  left: 2%;
+  top: 45%;
+}
+
+.heading7{
+  position: absolute;
+  top: 41%;
+  font-size: 20px;
+  color: gray;
+  left: 3%;
+}
+.heading8{
+  position: absolute;
+  top: 84%;
+  font-size: 20px;
+  color: gray;
+  left: 3%;
+}
+.heading9{
+  position: absolute;
+  top: 129%;
+  font-size: 20px;
+  color: gray;
+  left: 3%;
+}
+.navimg5{
+  height: 28vh;
+  width: 18vw;
+  position: absolute;
+  left: 2%;
+  top: 90%;
+}
+
+.navimg6{
+  height: 28vh;
+  width: 18vw;
+  position: absolute;
+  left: 2%;
+  top: 1%;
+}
+.navimg7{
+  height: 28vh;
+  width: 18vw;
+  position: absolute;
+  left: 2%;
+  top: 43%;
+}
+
+.heading11{
+  position: absolute;
+  top: 39%;
+  font-size: 20px;
+  color: gray;
+  left: 3%;
+}
+.heading12{
+  position: absolute;
+  top: 81%;
+  font-size: 20px;
+  color: gray;
+  left: 3%;
+}
+.heading13{
+  position: absolute;
+  top: 122%;
+  font-size: 20px;
+  color: gray;
+  left: 3%;
+}
+.navimg8{
+  height: 28vh;
+  width: 18vw;
+  position: absolute;
+  left: 2%;
+  top: 85%;
+}
+.heading6{
+  font-size: 14px;
+}
+.heading10{
+  font-size: 14px;
+}
+.heading14{
+  font-size: 14px;
+}
+
+.bt1{
+  height: 3vh;
+  width: 7vw;
+  }
+  .pic3:hover .bt1{
+    transform: translateY(-22px);
+  }
+
+  .bt2{
+    height: 3vh;
+    width: 7vw;
+    }
+    .pic3:hover .bt2{
+      transform: translateY(-22px);
+    }
+
+    .bt3{
+      height: 3vh;
+      width: 7vw;
+      }
+      .pic3:hover .bt3{
+        transform: translateY(-22px);
+      }     
+      .bt4{
+        height: 3vh;
+        width: 7vw;
+        }
+        .pic3:hover .bt4{
+          transform: translateY(-22px);
+        }      
+ .bt5{
+ height: 3vh;
+ width: 7vw;
+ }
+  .pic3:hover .bt1{
+    transform: translateY(-22px);
+  }     
+
+  .bt6{
+    height: 3vh;
+    width: 7vw;
+    }
+     .pic3:hover .bt6{
+       transform: translateY(-22px);
+     }  
+     .bt7{
+      height: 3vh;
+      width: 7vw;
+      }
+       .pic3:hover .bt7{
+         transform: translateY(-22px);
+       }  
+       .bt8{
+        height: 3vh;
+        width: 7vw;
+        }
+         .pic3:hover .bt8{
+           transform: translateY(-22px);
+         } 
+         .bt9{
+          height: 3vh;
+          width: 7vw;
+          }
+ .pic3:hover .bt9{
+  transform: translateY(-22px);
+ }       
+ .bt10{
+   height: 3vh;
+   width: 7vw;
+   }
+ .pic3:hover .bt10{
+    transform: translateY(-22px);
+  }     
+   .bt11{
+     height: 3vh;
+   width: 7vw;
+   }
+  .pic3:hover .bt11{
+     transform: translateY(-22px);
+   } 
+   .bt12{
+     height: 3vh;
+     width: 7vw;
+         }
+      .pic3:hover .bt12{
+      transform: translateY(-22px);
+      }  
+      .main9{
+       height: auto;
+          width: 100%;
+  position: relative;
+    top: -6%;
+ }              
+                 
+}
